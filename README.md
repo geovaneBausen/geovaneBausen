@@ -2,7 +2,7 @@
 
 🎓 Estudante de Tecnologia em Sistemas para Internet (TSI) no Instituto Federal, apaixonado por desenvolvimento de software e tecnologia.
 
-🌱 Atualmente me aprofundando em JavaScript, TypeScript, React e Python
+🌱 Atualmente me aprofundando em TypeScript, React e Python
 
 ---
 <div style="display: inline_block"><br>
