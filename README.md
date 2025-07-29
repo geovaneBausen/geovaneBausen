@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Geovane Bausen
 
-🎓 Estudante de Tecnologia em Sistemas para Internet (TSI) no Instituto Federal, apaixonado por desenvolvimento de software e tecnologia.
+🎓 Estudante de Tecnologia em Sistemas para Internet (TSI) no Instituto Federal, apaixonado por conhecimento e tecnologia.
 
 🌱 Atualmente me aprofundando em TypeScript, React e Python
 
