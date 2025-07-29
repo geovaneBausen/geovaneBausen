@@ -2,8 +2,6 @@
 
 🎓 Estudante de Tecnologia em Sistemas para Internet (TSI) no Instituto Federal, apaixonado por conhecimento e tecnologia.
 
-🌱 Atualmente me aprofundando em TypeScript, React e Python
-
 ---
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
